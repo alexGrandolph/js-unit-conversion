@@ -1,3 +1,54 @@
 body {
   margin: 0;
+  background-color: #1F2937;
+}
+
+#top-container {
+  color: #c2cfdc;
+  text-align: center;
+  background-color: #5731f3;
+  width: 50%;
+  margin-left: 30%;
+  border-radius: 15px;
+}
+
+h1{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+#unit-input {
+  width: 160px;
+  height: 150px;
+  background-color: #5731f3;
+  border: 1px solid #c2cfdc;
+  font-size: 70px;
+  color: #c2cfdc;
+  padding: 10px 20px;
+}
+
+#convert-btn {
+  margin: 20px;
+  background-color: #c2cfdc;
+  border: none;
+  width: 160px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 1.3rem;
+  color: #1F2937;
+
+}
+
+#conversion-container {
+  background-color: #273549;
+  color: #B295FF;
+  text-align: center;
+  width: 50%;
+  height: 10%;
+  margin-left: 30%;
+  margin-top: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
