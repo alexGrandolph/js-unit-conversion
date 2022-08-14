@@ -20,13 +20,14 @@ h1{
 }
 
 #unit-input {
-  width: 160px;
+  width: 55%;
   height: 150px;
   background-color: #5731f3;
   border: 1px solid #c2cfdc;
   font-size: 70px;
   color: #c2cfdc;
   padding: 10px 20px;
+  text-align: center;
 }
 
 #input-btn {
@@ -46,7 +47,7 @@ h1{
   color: #B295FF;
   text-align: center;
   width: 50%;
-  height: 10%;
+  min-height: 10%;
   margin-left: 30%;
   margin-top: 35px;
   padding-top: 10px;
